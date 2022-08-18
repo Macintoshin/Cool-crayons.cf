@@ -70,5 +70,9 @@ content {
     font-family: "SanFranciscoThin";
     src : url("/assets/fonts/SF-Pro-Display-Thin.otf") format("opentype");
 }
+html {
+    font-family: 'SanFrancisco';
+    font-size: 12px;
+}
         
 
